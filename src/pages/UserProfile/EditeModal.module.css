@@ -1,0 +1,16 @@
+.editIcon {
+	composes: colorSecondary from "../../components/css/color.css";
+	font-size: 1.2rem;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	color: #ddd;
+}
+
+/* .color_backgroundColorSecondary__p3AyJ{
+	background-color: #5d367a !important;
+}
+.color_colorSecondary__14vH3{
+	color:#fff !important; 
+} */

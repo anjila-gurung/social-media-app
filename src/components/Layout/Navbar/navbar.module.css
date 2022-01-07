@@ -1,0 +1,31 @@
+.navbar {
+	composes: backgroundColorPrimary from "../../css/color.css";
+	height: 60px;
+	color: #222;
+}
+.content {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 60px;
+}
+.content h1 {
+	margin: 0;
+}
+.logo {
+	font-size: 1.4rem;
+	margin: 0;
+	text-decoration: none;
+	color: #222;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
+.linksButton {
+	display: flex;
+	align-items: center;
+	margin-right: 10px;
+}
+.imgUser {
+	object-fit: cover;
+	border-radius: 50%;
+}

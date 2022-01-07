@@ -1,0 +1,14 @@
+.backgroundColorPrimary {
+	background-color: #fff;
+	box-shadow: 0 0 4px #ddd;
+}
+.backgroundColorSecondary {
+	background-color: #5d367a;
+}
+.colorPrimary {
+	color: #607d8b;
+}
+.colorSecondary {
+	color: #fff;
+	font-weight: 300;
+}
